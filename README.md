@@ -10,7 +10,7 @@ Tecnologias utilizadas: JavaScript, React, Styled-components, Chakra UI, Framer-
 
 
 Link:
-https:https://fresh-seat.surge.sh/
+https://fresh-seat.surge.sh/
 
 Login adm: astrodev@gmail.com.br
 Senha: 123456
